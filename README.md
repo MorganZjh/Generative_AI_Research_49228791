@@ -1,16 +1,16 @@
 # Generative_AI_Research_49228791
 
 Generative_AI_Research_49228791
-    Additional Materials
-        Additional Materials.txt
-    Drafts and Reports
-        Drafts and Reports.txt
-    Literature Review documents
-        Literature Review documents.txt
-    Qualitative Analysis
-        Qualitative Analysis.txt
-    Quantitative Analysis
-        Quantitative Analysis.txt
+|-Additional Materials
+|---Additional Materials.txt
+|-Drafts and Reports
+|---Drafts and Reports.txt
+|-Literature Review documents
+|---Literature Review documents.txt
+|-Qualitative Analysis
+|---Qualitative Analysis.txt
+|-Quantitative Analysis
+|---Quantitative Analysis.txt
 
 Literature Review documents: Journal and conference articles, books, newspaper articles.  
 Quantitative Analysis: Survey data, questions, analysis files, survey analysis reports.  
